@@ -1,0 +1,8 @@
+    lista2=[12,12,5,'string']
+lista2=lista2 + ['adiçao permanente']# apenas com a concatenação a lista não se modifica permanentemente, para isso se atribui a lista a concatenação
+print(lista2)
+#metodos de lista
+lista2=lista2.append('mais um')# adiciona elemento e a lista ja gerada
+print(lista2)
+
+print(lista2)

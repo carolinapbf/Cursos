@@ -1,0 +1,5 @@
+t=(1,2,3)
+print(type(t))
+t=('one',1,3.4)
+print(t.index('one'))
+print(t.count('one'))
